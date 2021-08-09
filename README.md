@@ -6,15 +6,15 @@ And also Execute the JUnit Tests via the Junit module interface.
 
 For example 
 
-To run the applicatino directly do the following:
+To run the application directly do the following:
 
 In the Package Explorer, select the main Class Organiser.java
-Then right click the Organiser.java and Run As Java Aplication
+Then right click the Organiser.java and Run As Java Application
 Or select Organiser.java and press Alt+Shift+X, J
 
-This will run the application produce the report
+This will run the application and produce the report.
 
-The run the tests you can do the similar steps from above but on either the  full Test Class or Test Module
+To run the tests you can do the similar steps from above but on either the full Test Class or Test Module Function
 
 For example
 
